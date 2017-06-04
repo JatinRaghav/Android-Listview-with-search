@@ -1,1 +1,1 @@
-# Android-Listview-with-search
+Adding search functionality to listview will filters the list data with a matching string,provides user an easy way to find the information he needs. In this code i am discussing how to enable search filter to android ListView.
