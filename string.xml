@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GithubListview</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">ListView Search</string>
+    <string name="speech_prompt">Say something&#8230;</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+
+</resources>
